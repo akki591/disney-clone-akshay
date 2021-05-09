@@ -1,0 +1,17 @@
+1) npx create-react-app <name>
+
+2) npm i styled-components
+
+3) npm i react-router-dom
+
+4) npm i firebase
+
+5) npm i firebase-tools
+
+6) npm i react-redux
+
+7) npm i @reduxjs/toolkit
+
+8) npm i react-slick
+
+9) npm i slick-carousel
